@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric Chess.CSharp", "Geometric Chess.CSharp.csproj", "{74FC3285-4F1D-2E5C-E095-E46CBDABA1AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric Chess.CSharp.Editor", "Geometric Chess.CSharp.Editor.csproj", "{BD224540-DFFC-2BD2-4948-EA646FE2ED68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric Chess.CSharp.Editor.Plugins", "Geometric Chess.CSharp.Editor.Plugins.csproj", "{D8B715FB-82F3-364A-6917-FC57CDDF3807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74FC3285-4F1D-2E5C-E095-E46CBDABA1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FC3285-4F1D-2E5C-E095-E46CBDABA1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FC3285-4F1D-2E5C-E095-E46CBDABA1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FC3285-4F1D-2E5C-E095-E46CBDABA1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD224540-DFFC-2BD2-4948-EA646FE2ED68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD224540-DFFC-2BD2-4948-EA646FE2ED68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD224540-DFFC-2BD2-4948-EA646FE2ED68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD224540-DFFC-2BD2-4948-EA646FE2ED68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B715FB-82F3-364A-6917-FC57CDDF3807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B715FB-82F3-364A-6917-FC57CDDF3807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B715FB-82F3-364A-6917-FC57CDDF3807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B715FB-82F3-364A-6917-FC57CDDF3807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
